@@ -12,4 +12,6 @@ Para la realización del juego se utilizó POO:
 - IniciarJuego, donde se crea una instancia de Juego y se llama al método para dar inicio al juego.
 - Juego: este es el programa principal, donde se van creando las instancias de las clases arriba mencionadas, y donde se llaman los métodos de las clases, necesarios para el funcionamiento.
 
-  
+  ![image](https://github.com/MarianelaCortina/TP-Final-Anglada-Cortina-2022/assets/73797352/f23ecde8-ef3f-46c1-98bc-15d98e218258)
+
+
